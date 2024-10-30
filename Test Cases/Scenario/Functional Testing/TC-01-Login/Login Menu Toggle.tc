@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Menu Toggle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>837146c1-8869-4017-96c0-a44018654b2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e717a082-a139-4efd-9163-1e3a4122ab47</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a865cfec-5f38-4c41-899b-257290e5d823</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44f22ab9-38c8-497f-8022-2e0872b960a8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>e717a082-a139-4efd-9163-1e3a4122ab47</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>a865cfec-5f38-4c41-899b-257290e5d823</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>44f22ab9-38c8-497f-8022-2e0872b960a8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

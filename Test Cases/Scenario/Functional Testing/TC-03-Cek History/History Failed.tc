@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Isi history kosong</description>
+   <name>History Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>418dbc5a-450a-485e-99d3-18636882c067</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Keluar dari web</description>
+   <name>Logout Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3448981-e366-424d-8bdc-9eb75f99fc79</testCaseGuid>
+</TestCaseEntity>

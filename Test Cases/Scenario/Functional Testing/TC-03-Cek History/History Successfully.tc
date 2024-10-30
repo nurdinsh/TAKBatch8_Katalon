@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengecek history</description>
+   <name>History Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef3b7b6c-8427-4d38-96b4-041748eb153c</testCaseGuid>
+</TestCaseEntity>
